@@ -18,9 +18,3 @@ By default uses a Logitech F710. To use with Sony PS4:
 |  | DOWN = decrease altitude|
 |  | LEFT = yaw rotation to the left|
 |  | RIGHT = yaw rotation to the right|
-
-  
- 
-  
-
-
